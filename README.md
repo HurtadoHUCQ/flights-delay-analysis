@@ -1,4 +1,4 @@
-# Análisis de Retrasos en Vuelos – Examen de Análisis de Datos con Pandas
+# Análisis de Retrasos en Vuelos – Examen de Análisis de Datos 
 
 Este proyecto fue realizado siendo examen del primer parcial de clase, cuyo objetivo fue aplicar técnicas básicas de análisis de datos usando Python y Pandas.
 
