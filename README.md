@@ -2,7 +2,7 @@
 
 Este proyecto fue realizado siendo examen del primer parcial de clase, cuyo objetivo fue aplicar técnicas básicas de análisis de datos usando Python y Pandas.
 
-Trabajé con un dataset proporcionado por el profesor. Este contiene datos de vuelos domésticos en Estados Unidos durante el año 2013, y el reto consistía en identificar posibles factores que influyen en los retrasos en la salida y llegada de los vuelos.
+Trabajé con un dataset proporcionado por el profesor. Este contiene datos de vuelos publicos en Estados Unidos durante el año 2013, y el reto consistía en identificar posibles factores que influyen en los retrasos en la salida y llegada de los vuelos.
 
 ## Sobre el dataset
 
